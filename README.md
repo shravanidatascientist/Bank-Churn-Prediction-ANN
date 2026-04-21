@@ -1,17 +1,17 @@
-# 🏦 Customer Churn Prediction using ANN
+# 🏦 Bank Churn Prediction using ANN
 
-## 📌 Project Overview
+##  Project Overview
 This project predicts whether a bank customer will leave (churn) or stay using an Artificial Neural Network (ANN).
 
 ---
 
-## 🎯 Objective
+##  Objective
 - Predict customer churn (0 = No, 1 = Yes)
 - Help businesses take proactive actions
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - TensorFlow / Keras
 - Scikit-learn
@@ -20,7 +20,7 @@ This project predicts whether a bank customer will leave (churn) or stay using a
 
 ---
 
-## 📊 Dataset Features
+##  Dataset Features
 - Credit Score
 - Geography
 - Gender
@@ -36,7 +36,7 @@ This project predicts whether a bank customer will leave (churn) or stay using a
 
 ---
 
-## ⚙️ Steps Performed
+##  Steps Performed
 
 ### 1. Data Preprocessing
 - Removed unnecessary columns
@@ -84,7 +84,7 @@ This project predicts whether a bank customer will leave (churn) or stay using a
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 pip install -r requirements.txt
